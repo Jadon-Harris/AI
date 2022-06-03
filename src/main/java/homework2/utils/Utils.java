@@ -2,7 +2,8 @@ package homework2.utils;
 
 import java.util.List;
 
-import javax.xml.soap.Node;
+import homework2.entity.Node;
+
 
 /**
  * @author Jadon
